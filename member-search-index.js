@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"Kalkulator","l":"Kalkulator()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Kalkulator","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
+memberSearchIndex = [{"p":"<Unnamed>","c":"Kasir","l":"addItem(Item)"},{"p":"<Unnamed>","c":"Kasir","l":"calculateTotal()"},{"p":"<Unnamed>","c":"Kasir","l":"displayItems()"},{"p":"<Unnamed>","c":"Kasir","l":"Kasir()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Kasir","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
